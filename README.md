@@ -1,5 +1,5 @@
 # HARK-docker
-ロボット聴覚ソフトウェアHARKをDocker化です（https://hark.jp/）
+ロボット聴覚ソフトウェアHARKのDocker化です（https://hark.jp/）
 
 # DockerHubにてイメージ公開済みです
 https://hub.docker.com/r/naegawa/hark
